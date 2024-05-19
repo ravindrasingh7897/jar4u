@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jar4u/static/css/main.df67f0b6.css",
+    "main.js": "/jar4u/static/js/main.7cf4e03c.js",
+    "index.html": "/jar4u/index.html",
+    "main.df67f0b6.css.map": "/jar4u/static/css/main.df67f0b6.css.map",
+    "main.7cf4e03c.js.map": "/jar4u/static/js/main.7cf4e03c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df67f0b6.css",
+    "static/js/main.7cf4e03c.js"
+  ]
+}

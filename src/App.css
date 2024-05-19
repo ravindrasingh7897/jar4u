@@ -1,0 +1,48 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+}
+
+.App {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.App {
+  position: relative;
+  /* Add other styles as needed */
+
+}
+
+.title {
+  color: rgb(10, 0, 0);
+  font-size: 2.5em;
+  display: flex;
+  justify-content: center;
+  z-index: 4; 
+  padding: 0;
+  margin: 0;
+  position: relative;
+  top: 25vh;
+}
+
+.canvas-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1; /* Adjust the z-index as needed */
+  top: 80px;
+}
+
+.background {
+  height: -50px;
+  
+}
